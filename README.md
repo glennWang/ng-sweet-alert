@@ -4,6 +4,7 @@
 [![Build Status](https://img.shields.io/github/forks/tushariscoolster/ng-sweet-alert.svg?style=flat-square)](https://github.com/tushariscoolster/ng-sweet-alert)
 [![Build Status](https://img.shields.io/github/stars/tushariscoolster/ng-sweet-alert.svg?style=flat-square)](https://github.com/tushariscoolster/ng-sweet-alert)
 
+# A fixed version for bower.json depency "sweetalert": "*"
 
 # ng-sweet-alert
 
